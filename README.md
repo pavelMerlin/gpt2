@@ -42,11 +42,7 @@ Several improvements can be made to enhance the model’s performance:
 ```
    git clone https://github.com/pavelMerlin/gpt2
 ```
-2. Install dependencies by executing this command:
-```
-   pip install -r requirements.txt
-```
-3. Prepare the data and train the model by running:
+2. Prepare the data and train the model by running:
 ```
    python train_gpt2.py
 ```
