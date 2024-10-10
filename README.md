@@ -15,10 +15,6 @@ The goal of this project is to train and fine-tune GPT-2 using text data from Sh
    - Fine-tuning GPT-2 using the prepared text dataset.
    - Use of methods to optimize the loss function during training.
    
-3. **Bigram Language Model**:
-   - Simple model based on bigram probabilities.
-   - Comparison of Bigram LM and GPT-based approaches.
-
 ### Key Components
 
 - **Self-Attention Mechanism**: The self-attention mechanism used in the GPT-2 architecture enables the model to understand relationships between words in a sequence more effectively than simpler models like Bigram LM.
