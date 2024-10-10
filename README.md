@@ -39,9 +39,9 @@ Several improvements can be made to enhance the model’s performance:
 ## How to Use
 
 1. Clone the repository by running the following command in your terminal:
-   ```
+```
    git clone https://github.com/pavelMerlin/gpt2
-   ```
+```
 2. Install dependencies by executing this command:
 ```
    pip install -r requirements.txt
